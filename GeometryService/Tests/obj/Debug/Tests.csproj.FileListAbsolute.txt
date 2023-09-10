@@ -1,0 +1,4 @@
+C:\Users\Andrei\Desktop\Mindbox\GeometryService\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\Mindbox\GeometryService\Tests\obj\Debug\Tests.Properties.Resources.resources
+C:\Users\Andrei\Desktop\Mindbox\GeometryService\Tests\obj\Debug\Tests.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\Mindbox\GeometryService\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
